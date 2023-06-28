@@ -1,6 +1,4 @@
-# Falta corregir
-
-# Clonación de la interfaz de Google creado con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO
+# Menú de pizza creado con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO
 
 
 ## Índice 📖
@@ -14,18 +12,16 @@
 ## 1. Intro 😎
 HTML5 trabaja de la mano con CSS3 para crear sitios web que usamos todos los días. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS.
 
-En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google.
+En este proyecto, con los conocimientos de HTML y CSS realicé un menú que muestra pizzas usando flexbox.
 
 ## 2. Qué construí 🙌
 En este proyecto me enfoqué en constuir la clonación de la intefaz de Google.
 Contiene las siguientes secciones:
 
-* Header: Sección que involucra la foto de perfil, íconos y el menú con hipervínculos.
-* Main: Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, íconos y botones.
-* Footer: Sección que incluye hipervínculos al final de la página.
+* Main: Sección del contenedor para los elementos centrales de la página: imágenes, texto, lista, botón, etc.
 
 ## 3. Objetivo del proyecto 🎯
-Aprender a utilizar las etiquetas de HTML5 y CSS3.
+Aprender a utilizar mejor Flexbox.
 
 ## 4. Link a demo📎
 Aquí puedes visualizar mi proyecto terminado: [Pizzería](https://regal-fudge-ef9bc1.netlify.app/)
