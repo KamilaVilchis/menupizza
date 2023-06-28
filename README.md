@@ -15,7 +15,7 @@ HTML5 trabaja de la mano con CSS3 para crear sitios web que usamos todos los dí
 En este proyecto, con los conocimientos de HTML y CSS realicé un menú que muestra pizzas usando flexbox.
 
 ## 2. Qué construí 🙌
-En este proyecto me enfoqué en constuir la clonación de la intefaz de Google.
+En este proyecto me enfoqué en constuir un menú que muestra pizzas usando flexbox.
 Contiene las siguientes secciones:
 
 * Main: Sección del contenedor para los elementos centrales de la página: imágenes, texto, lista, botón, etc.
